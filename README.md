@@ -10,7 +10,6 @@ nodejs-argo是一个强大的Argo隧道部署工具，专为PaaS平台和游戏�
 
 ---
 
-Telegram交流反馈群组：https://t.me/eooceu
 </div>
 
 ## 郑重声明
